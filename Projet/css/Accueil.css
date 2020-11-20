@@ -1,0 +1,31 @@
+.Accueil{
+    text-align: center;
+    margin-top: 2%;
+}
+p{
+    font-size: 25px;
+}
+.card{
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.card-body{
+    text-align: center;
+}
+.bouton{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+}
+.list-group{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+.bouton_add{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    display: table;
+}
