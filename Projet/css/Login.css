@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(195, 232, 255);
+    background-color: white;
     padding: 5% 10%;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ body{
 
 .submit
 {
-  background-color: lightskyblue;
+  font-size: 2em;
 }
 
 input
